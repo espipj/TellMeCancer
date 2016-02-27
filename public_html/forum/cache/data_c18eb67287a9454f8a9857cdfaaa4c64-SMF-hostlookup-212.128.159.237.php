@@ -1,0 +1,1 @@
+<?php if (!defined('SMF')) die; if (1456575274 < time()) $expired = true; else{$expired = false; $value = 's:27:"Retina0ALABUSAL.der.usal.es";';}?>
